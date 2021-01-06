@@ -1,4 +1,4 @@
-# 2.04 Activity 1
+# 2.06 Activity 1
 
 Keep working on the `bank` database and its `card` table.
 
