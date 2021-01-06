@@ -1,4 +1,4 @@
-# 2.04 Activity 2
+# 2.06 Activity 2
 
 #### Queries and questions
 
